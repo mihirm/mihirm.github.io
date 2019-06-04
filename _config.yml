@@ -14,18 +14,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mihir Malaviya
-email: code@mihir.im
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Home page for Mihir Malaviya, a nerd by birth and a programmer by choice.
+  a geek by birth and a programmer by choice.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mihirm
 github_username:  mihirm
 
-# Build settings
+
 markdown: kramdown
-remote_theme: broccolini/swiss
-# theme: minima
+# remote_theme: broccolini/swiss
+theme: minima
 # theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed

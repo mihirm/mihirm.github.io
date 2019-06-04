@@ -24,7 +24,8 @@ github_username:  mihirm
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote-theme: broccolini/swiss
+# theme: minima
 # theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
